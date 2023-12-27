@@ -40,3 +40,34 @@
         {'day': '1/3/2017', 'temperature': 28, 'windspeed': 2, 'event': 'Snow'},
         
     ]
+
+# HomeWork:
+
+## Problem Statement:
+### Machine Learning Problem Statement: Student Result Analysis and Prediction
+
+#### Objective:
+    Develop a machine learning model to analyze student academic performance and predict results based on historical data. The model should take into account various parameters such as student ID, student name, marks in individual subjects (Subject1, Subject2, Subject3, Subject4), total marks, percentage, and corresponding grades.
+
+#### Dataset:
+    A dataset is provided containing the following features for each student:
+
+    Student ID
+    Student Name
+    Marks obtained in Subject1, Subject2, Subject3, Subject4
+    Total marks
+    Percentage
+    Grade (Target variable)
+
+### Tasks:
+
+#### Exploratory Data Analysis (EDA):
+
+    Perform exploratory data analysis to understand the distribution of marks, percentages, and grades.
+    Identify any patterns or correlations between different features.
+
+#### Data Preprocessing:
+
+    Handle missing data and outliers appropriately.
+    Convert categorical features (e.g., grades) into numerical representations.
+    Normalize/standardize numerical features if necessary.
