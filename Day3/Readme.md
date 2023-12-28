@@ -107,3 +107,32 @@
 
 ![image](https://github.com/Kiranwaghmare123/PG-DBDA-Sep2023/assets/72081819/d40feda0-01af-4713-9d15-d7e01a173524)
 
+# Homework:
+------------
+
+## Machine Learning Problem Statement: Titanic Survival Prediction
+
+## Objective:
+	Develop a machine learning model to analyze the Titanic dataset and predict passenger survival based on various features. The model should utilize techniques such as simple imputation for handling missing values, label encoding and one-hot encoding for categorical variables, and standardization for numerical features.
+
+### Dataset:
+	The dataset contains information about Titanic passengers, including features such as age, gender, class, ticket fare, and whether the passenger survived or not (target variable).
+
+## Tasks:
+
+### Data Exploration:
+
+	Explore the dataset to understand the distribution of features.
+	Identify missing values and outliers.
+ 
+### Data Preprocessing:
+
+	Handle missing values using simple imputation for features like age and embarked.
+	Apply label encoding to convert categorical variables like gender into numerical representations.
+	Use one-hot encoding for categorical variables with more than two categories, such as embarked.
+	Standardize numerical features like age and fare to bring them to a common scale.
+ 
+### Feature Engineering:
+
+	Explore the creation of new features or interactions that might enhance predictive power.
+	Consider combining or transforming existing features if necessary.
