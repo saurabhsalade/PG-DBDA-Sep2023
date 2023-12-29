@@ -48,7 +48,8 @@
     1. Coefficient of Determination: 
     	-Also refered as R-Squared
     	-It is a statistics that indicates how much variation the developed model can capture
- ![image](https://github.com/Kiranwaghmare123/PG-DBDA-Sep2023/assets/72081819/06210b6a-3df8-479e-8e8a-bb66795cc66e)
+![image](https://github.com/Kiranwaghmare123/PG-DBDA-Sep2023/assets/72081819/4fce608b-8531-44fc-acbb-75010a7458a1)
+
    	
     	
     2. Residual Sum of Squares:RSS
