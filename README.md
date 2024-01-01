@@ -3,8 +3,10 @@
     Day 1: Introduction to Machine Learning
     Day 2: ML Modelling
     Day 3: Data Modelling
-    Day 4: EDA
-    
+    Day 4: Regression : Simple, Multiple and Polynomial
+    Day 5: Types of regression: Ridge, Lasso & Elastic Net
+    Day 6: Logistic Regression
+    Day 7:
 
 ## Numpy Book link:
     http://www.tramy.us/numpybook.pdf
