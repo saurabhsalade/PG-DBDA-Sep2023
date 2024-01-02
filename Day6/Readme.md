@@ -1,4 +1,4 @@
-# Hoem-work
+# Home-work
 
 #Problem statement :
 ### Machine Learning Problem Statement: Income Prediction using Logistic Regression
