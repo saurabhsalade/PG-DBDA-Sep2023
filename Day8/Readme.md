@@ -1,5 +1,5 @@
 # Visualising the Training set results
-
+```
 from matplotlib.colors import ListedColormap
 X_Set, Y_Set = X_train, y_train
 X1, X2 = np.meshgrid(np.arange(start = X_Set[:, 0].min() - 1, stop = X_Set[:, 0].max() + 1, step = 0.01),
@@ -16,3 +16,4 @@ plt.xlabel('Age')
 plt.ylabel('Estimated Salary')
 plt.legend()
 plt.show()
+```
