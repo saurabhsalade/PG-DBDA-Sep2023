@@ -84,3 +84,8 @@ Link 2: https://www.vtupulse.com/machine-learning/id3-algorithm-decision-tree-so
 
 ![image](https://github.com/Kiranwaghmare123/PG-DBDA-Sep2023/assets/72081819/58d05fca-fa9e-42ce-a237-328bf4d99afd)
 
+
+### Question: Implement the Decision Tree and Random Forest for the following dataset.
+
+Dataset: https://github.com/Kiranwaghmare123/PG-DBDA-Sep2023/blob/main/Dataset/classification.csv
+
