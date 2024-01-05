@@ -6,7 +6,11 @@
     Day 4: Regression : Simple, Multiple and Polynomial
     Day 5: Types of regression: Ridge, Lasso & Elastic Net
     Day 6: Logistic Regression
-    Day 7:
+    Day 7: Decision Tree
+    Day 8: Random Forest & Ensemble Learning
+    Day 9: KNN & Naive Bayes
+    Day10: SVM
+    Day11:
 
 ## Numpy Book link:
     http://www.tramy.us/numpybook.pdf
