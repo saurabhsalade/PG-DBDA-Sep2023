@@ -10,7 +10,11 @@
     Day 8: Random Forest & Ensemble Learning
     Day 9: KNN & Naive Bayes
     Day10: SVM
-    Day11:
+    Day11: Unsupervised Learning: Kmeans, Kmedoid, Agglomerative, divisive, DBSCAN
+    Day12: Association: Apriori, Elcat, + Dimension Reduction
+    Day13: FP growth + Time series analysis
+    Day14: NLP
+    Day15:
 
 ## Numpy Book link:
     http://www.tramy.us/numpybook.pdf
