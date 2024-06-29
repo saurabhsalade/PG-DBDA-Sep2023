@@ -20,5 +20,6 @@
     http://www.tramy.us/numpybook.pdf
 
 ## Numpy official documentation:
+.
     http://docs.scipy.org/doc/
 
